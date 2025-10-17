@@ -1,0 +1,17 @@
+name: quant
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - fredapi
+  - jupyter
+  - scipy
+  - pip
+  - pip:
+      - yfinance
+      - cvxpy
+      - pypfopt
